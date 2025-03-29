@@ -1,0 +1,5 @@
+.env
+trophies.db
+.gitignore
+__pycache__
+*.pyc
